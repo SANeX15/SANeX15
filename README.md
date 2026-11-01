@@ -1,15 +1,43 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Rust**
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/2143ac39-09dc-4aa7-94b7-1ef29b597647" />
 
-- 📫 How to reach me **sanshraymchutke@gmail.com**
+</div>
 
-- ⚡ Fun fact **i am boring. go away.**
+# me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/id.sans.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="id.sans.1" height="30" width="40" /></a>
-</p>
+𝚑𝚎𝚛𝚎𝚒𝚗 𝚜𝚑𝚊𝚕𝚕 𝚝𝚑𝚘𝚞 𝚋𝚎𝚑𝚘𝚕𝚍 𝚝𝚑𝚎 𝚌𝚊𝚕𝚊𝚖𝚒𝚝𝚒𝚎𝚜 𝚠𝚛𝚘𝚞𝚐𝚑𝚝 𝚋𝚢 𝚊 𝚜𝚒𝚖𝚙𝚕𝚎𝚝𝚘𝚗, 𝚠𝚑𝚘𝚜𝚎 𝚖𝚒𝚗𝚍 𝚌𝚘𝚗𝚌𝚎𝚒𝚟𝚎𝚝𝚑 𝚘𝚏 𝚒𝚍𝚎𝚊𝚜 𝚘𝚗𝚕𝚢 𝚊𝚏𝚝𝚎𝚛 𝚝𝚑𝚎𝚢 𝚑𝚊𝚟𝚎 𝚋𝚎𝚎𝚗 𝚋𝚛𝚘𝚞𝚐𝚑𝚝 𝚝𝚘 𝚕𝚒𝚐𝚑𝚝 𝚋𝚢 𝚠𝚒𝚜𝚎𝚛 𝚖𝚎𝚗.<br><br>t𝚑𝚎𝚜𝚎 𝚍𝚒𝚜𝚊𝚜𝚝𝚎𝚛𝚜 𝚌𝚘𝚖𝚙𝚛𝚒𝚜𝚎 𝚝𝚑𝚢 𝚏𝚊𝚒𝚕𝚎𝚍 𝚞𝚗𝚍𝚎𝚛𝚝𝚊𝚔𝚒𝚗𝚐𝚜 𝚘𝚏 𝚐𝚛𝚊𝚗𝚍 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚊𝚕 𝚍𝚎𝚜𝚒𝚐𝚗𝚜, 𝚊𝚕𝚘𝚗𝚐𝚜𝚒𝚍𝚎 𝚝𝚑𝚎 𝚌𝚛𝚞𝚍𝚎 𝚎𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗𝚜 𝚘𝚏 𝚘𝚝𝚑𝚎𝚛𝚠𝚒𝚜𝚎 𝚗𝚘𝚋𝚕𝚎 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚜, 𝚊𝚕𝚕 𝚞𝚗𝚍𝚎𝚛𝚝𝚊𝚔𝚎𝚗 𝚜𝚘 𝚝𝚑𝚊𝚝 𝚝𝚑𝚘𝚞 𝚖𝚊𝚢𝚎𝚜𝚝 𝚍𝚒𝚜𝚌𝚎𝚛𝚗 𝚝𝚑𝚎 𝚝𝚛𝚞𝚎 𝚊𝚗𝚍 𝚝𝚛𝚒𝚊𝚕𝚜𝚘𝚖𝚎 𝚕𝚒𝚏𝚎 𝚘𝚏 𝚊 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛.<br><br>(𝚊𝚒 𝚝𝚛𝚊𝚗𝚜𝚕𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚖𝚢 𝚝𝚑𝚘𝚞𝚐𝚑𝚝𝚜 𝚒𝚗𝚝𝚘 𝚊𝚛𝚌𝚑𝚊𝚒𝚌 𝚟𝚘𝚌𝚊𝚋)
+<br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+# 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+
+- 𝚎𝚗𝚐𝚕𝚒𝚜𝚑 (𝚜𝚘𝚖𝚎𝚑𝚘𝚠 𝚏𝚕𝚞𝚎𝚗𝚝)
+- 𝚖𝚊𝚛𝚊𝚝𝚑𝚒 (𝚗𝚊𝚝𝚒𝚟𝚎)
+- 𝚑𝚒𝚗𝚍𝚒 (𝚜𝚝𝚞𝚝𝚝𝚎𝚛𝚜 𝚒𝚖𝚖𝚒𝚗𝚎𝚗𝚝)
+- 𝚓𝚊𝚙𝚊𝚗𝚎𝚜𝚎 (𝚘𝚗 𝚝𝚑𝚎 𝚠𝚊𝚢)
+
+𝚑𝚊𝚑𝚊 𝚓𝚔 ! 𝚝𝚛𝚞𝚎 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚕𝚒𝚜𝚝 𝚋𝚎𝚕𝚘𝚠 :
+
+- 𝙷𝚃𝙼𝙻𝟻 (𝚏𝚒𝚛𝚜𝚝 𝚘𝚌𝚌𝚞𝚛𝚎𝚗𝚌𝚎)
+- 𝙲𝚂𝚂𝟹 (𝚜𝚎𝚌𝚘𝚗𝚍 𝚘𝚌𝚌𝚞𝚛𝚎𝚗𝚌𝚎)
+- 𝙲
+- 𝙲++
+- 𝙲# (𝚐𝚊𝚟𝚎 𝚞𝚙 𝚑𝚊𝚕𝚏 𝚠𝚊𝚢)
+- 𝙹𝚊𝚟𝚊
+- 𝙿𝚢𝚝𝚑𝚘𝚗 (image)
+- 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 (𝚊𝚒 𝚐𝚘 𝚋𝚛𝚛𝚛)
+- 𝚁𝚞𝚜𝚝 (𝚑𝚘𝚗𝚒𝚗𝚐)
+<br>
+
+# 𝚜𝚔𝚒𝚕𝚕𝚜
+
+1. 𝚕𝚊𝚣𝚢.
+2. 𝚐𝚘𝚘𝚍 𝚙𝚛𝚘𝚌𝚛𝚊𝚜𝚝𝚒𝚗𝚊𝚝𝚘𝚛.
+3. 𝚛𝚎𝚊𝚍𝚎𝚛 (독자 𝚛𝚎𝚏 ?).
+4. 𝚊𝚌𝚞𝚝𝚎 𝚍𝚒𝚜𝚌𝚎𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝚒𝚗 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚍𝚘𝚖𝚊𝚒𝚗𝚜.
+5. 𝚍𝚎𝚙𝚛𝚎𝚜𝚜𝚒𝚘𝚗-𝚍𝚛𝚒𝚟𝚎𝚗 𝚎𝚗𝚎𝚛𝚐𝚢 𝚞𝚜𝚎𝚛.
+<br>
+
+# 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚖𝚘𝚛𝚎 𝚜𝚎𝚛𝚒𝚘𝚞𝚜 𝚙𝚎𝚘𝚙𝚕𝚎
+
+𝚑𝚎𝚕𝚕𝚘, 𝚒 𝚊𝚖 𝚜𝚊𝚗𝚜𝚑𝚛𝚊𝚢 𝚌𝚑𝚞𝚝𝚔𝚎. 𝚒 𝚊𝚖 𝚊 𝚓𝚞𝚗𝚒𝚘𝚛 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚜𝚘𝚕𝚘 𝚏𝚘𝚛 𝚊𝚗𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚝𝚑𝚊𝚝 𝚖𝚊𝚢 𝚙𝚒𝚚𝚞𝚎 𝚖𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜. 𝚖𝚢 𝚌𝚑𝚘𝚒𝚌𝚎 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚜𝚊𝚛𝚌𝚊𝚜𝚝𝚒𝚌 𝚠𝚘𝚛𝚍𝚒𝚗𝚐 𝚊𝚋𝚘𝚟𝚎 𝚒𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚜𝚘𝚕𝚎 𝚙𝚞𝚛𝚙𝚘𝚜𝚎 𝚘𝚏 𝚌𝚘𝚗𝚟𝚎𝚢𝚒𝚗𝚐 𝚝𝚑𝚎 𝚗𝚊𝚝𝚞𝚛𝚎 𝚘𝚏 𝚖𝚢 𝚖𝚒𝚗𝚍 𝚠𝚘𝚛𝚔𝚜 𝚠𝚑𝚎𝚗 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚝𝚑𝚒𝚗𝚔 𝚊𝚋𝚘𝚞𝚝 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚒𝚗 𝚊 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚛𝚎𝚊𝚍𝚖𝚎. 𝚛𝚎𝚐𝚊𝚛𝚍𝚕𝚎𝚜𝚜, 𝚋𝚎𝚒𝚗𝚐 𝚜𝚘𝚕𝚘 𝚒𝚜 𝚖𝚢 𝚋𝚎𝚜𝚝 𝚜𝚔𝚒𝚕𝚕 𝚊𝚜 𝚝𝚑𝚎 𝚕𝚘𝚊𝚍 𝚖𝚊𝚔𝚎𝚜 𝚖𝚎 𝚙𝚕𝚊𝚗, 𝚠𝚘𝚛𝚔, 𝚊𝚗𝚍 𝚎𝚡𝚎𝚌𝚞𝚝𝚎 𝚝𝚊𝚜𝚔𝚜 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝𝚕𝚢 𝚒𝚗 𝚐𝚒𝚟𝚎𝚗 𝚝𝚒𝚖𝚎. 𝚝𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚜𝚙𝚎𝚗𝚍𝚒𝚗𝚐 𝚢𝚘𝚞𝚛 𝚝𝚒𝚖𝚎 𝚛𝚎𝚊𝚍𝚒𝚗𝚐 𝚝𝚑𝚒𝚜 𝚙𝚊𝚛𝚊𝚐𝚛𝚊𝚙𝚑.
